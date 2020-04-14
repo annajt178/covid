@@ -16,22 +16,25 @@ You will need to login to Twilio CLI:
 In order to run the project you need the following credentials:
 
 
-- keys.json that you can get by generating an IAM role in [GCP](https://cloud.google.com/storage/docs/access-control/iam-roles) with the Storage Object Access Role.
-- keys.py where you will need to add your Twilio credentials from the [Twillio console](https://www.twilio.com/login?g=%2Fconsole%3F&t=2b1c98334b25c1a785ef15b6556396290e3c704a9b57fc40687cbccd79c46a8c) and your News API token that you can genenrate [here](https://newsapi.org/).
+- `keys.json` that you can get by generating an IAM role in [GCP](https://cloud.google.com/storage/docs/access-control/iam-roles) with the Storage Object Access Role.
+- `keys.py` where you will need to add your Twilio credentials from the [Twillio console](https://www.twilio.com/login?g=%2Fconsole%3F&t=2b1c98334b25c1a785ef15b6556396290e3c704a9b57fc40687cbccd79c46a8c) and your News API token that you can genenrate [here](https://newsapi.org/).
 
 Use virtualenv to create an environment and install app dependencies:
 
-screen
+`virtualenv venv`
+`source venv/bin/activate`
+`pip3 install -r requirements.txt`
 
 To start your own localhost flask server:
 
-screen
+`python3 main.py`
 
 Twilio partners with [Ngrok](https://ngrok.com/) which allows you to share your localhost via network. This makes the next command possible and lets you link your python script to Twilio. After logging in to the Twilio CLI, set your Twilio URL webhook to be the one from your localhost:
 
 +19142684397 is our development number. When using your own Twilio account, make sure you replace the below number with your own.
 
-screen
+`twilio phone-numbers:update "+19142684397" --sms-url="http://localhost:8080/sms"`
+
 
 Now you should be able to text your number and use the app.
 
@@ -48,7 +51,7 @@ There is currently no testing for the code. Due to the importance of speed of de
 
 # Deployment
 
-We containerize our python app using docker and then deploy it to GCP Cloud Run using the deploy.sh script. Feel free to take a look at the [Deploy Script](https://github.com/Marwan01/covid-helpline/blob/master/src/deploy.sh) & the [Dockerfile](https://github.com/Marwan01/covid-helpline/blob/master/src/Dockerfile).
+We containerize our python app using docker and then deploy it to GCP Cloud Run using the `deploy.sh` script. Feel free to take a look at the [Deploy Script](https://github.com/Marwan01/covid-helpline/blob/master/src/deploy.sh) & the [Dockerfile](https://github.com/Marwan01/covid-helpline/blob/master/src/Dockerfile).
 
 # Built With
 
@@ -91,5 +94,5 @@ This project is in serious need of contributions and funding. If you are interes
 
 
 
-### `Latest`
+
 
