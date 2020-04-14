@@ -7,13 +7,11 @@ include_in_header: true
 # Getting Started
 This project uses Python and Twilio. To get started make sure you have [Python 3.7+](https://www.python.org/downloads/) and [Twilio CLI](https://www.twilio.com/docs/twilio-cli/quickstart) installed. You can install Twilio CLI with Homebrew using this commad:
 
-something---
+`brew tap twilio/brew && brew install twilio`
 
 You will need to login to Twilio CLI:
 
-something else
-
-twilio screenshot
+`twilio login`
 
 In order to run the project you need the following credentials:
 
@@ -57,9 +55,6 @@ We containerize our python app using docker and then deploy it to GCP Cloud Run 
 - [Twilio](https://www.twilio.com/) - Programmatically send and receive SMS
 - [Python](https://www.python.org/) - Scripting Language
 
-<br>
-________
-<br>
 
 # Contributing
 
@@ -67,23 +62,17 @@ We are currently seeking developers who are willing to give us a hand completing
 
 To be added as a contributor, please contact us via [email](mailto:covid.helpline@gmail.com).
 
-## Versioning
+# Versioning
 
 We use [SemVer](https://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/Marwan01/covid-helpline/tags).
 
 See also the [list of contributors](https://github.com/Marwan01/covid-helpline/graphs/contributors) who participated in this project.
 
-<br>
-________
-<br>
 
 # Copyright & License
 
 Copyright (c) 2020 Covid Helpline - Released under the [MIT license](https://github.com/Marwan01/covid-helpline/blob/master/LICENSE). Covid Helpline and the Covid Helpline logo are trademarks of Covid Helpline official contributors. 
 
-<br>
-________
-<br>
 
 # Support
 
@@ -103,28 +92,4 @@ This project is in serious need of contributions and funding. If you are interes
 
 
 ### `Latest`
-# **Version 2.0**
-This is the first update to our app. Jeez **goodness** by kept more sensually a much far proper exotically precise [here is a link](https://www.google.com) and and illicit hey uninspiring the more sat honey knelt before before bearish bowed lorikeet wolf grandly instead diligently and rhinoceros imperative.
-
-#### What's New
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
-
-#### Bug Fixes
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
-
-<br>
-
-### **Version 2.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
-
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-
-<br>
-
-________
-<br>
 
