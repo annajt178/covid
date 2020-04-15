@@ -21,9 +21,9 @@ In order to run the project you need the following credentials:
 
 Use virtualenv to create an environment and install app dependencies:
 
-<dl>virtualenv venv
-source venv/bin/activate
-pip3 install -r requirements.txt</dl>
+```virtualenv venv```
+```source venv/bin/activate```
+```pip3 install -r requirements.txt ```
 
 To start your own localhost flask server:
 
