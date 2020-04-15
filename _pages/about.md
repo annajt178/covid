@@ -28,6 +28,6 @@ This project is in serious need of contributions and funding. If you are interes
 
 <br><br>
 
-<img alt="README-684b45a8.jpg" src="assets/icons/news.png" width="20%" height="" >
+<img alt="README-684b45a8" src="assets/icons/news.png" width="20%" height="" >
 ![](assets/icons/news.png)
 
