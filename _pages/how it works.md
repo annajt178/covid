@@ -7,12 +7,12 @@ include_in_header: true
 # How it works
 
 ## Step 1
-[textbubble](assets\textbubble.png)
+![textbubble](assets\textbubble.png)
 
 
 ## Step 2
 Choose from the options pannel
-[news](assets/news.png)
+![news](assets/news.png)
 ## Step 3
 
 
