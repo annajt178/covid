@@ -10,12 +10,12 @@ Covid Helpline is a non-profit, open source, community driven initiative created
 
 # Our team
 
-<img src="assets\team\mar.jpg" width="440"> <img src="https://emilbaehr.com/files/slor1.png" width="440">
 
-| Mar     | Alex          | Vany  |
+| Mar     | Alex | Vany |
 | Glenn   | Vlad | Anna |
-|  Ajay  | Sumi      |   Cleo |
-| Kass | Davina      |    Cristiana|
+|  Ajay   | Sumi | Cleo |
+| Kass    |Davina| Cristiana|
+|Ajay     | Karla|
 
 # Contribution
 
@@ -28,13 +28,5 @@ This project is in serious need of contributions and funding. If you are interes
 
 <br><br>
 
-# Information About Yourself
-your_name                                 : Anna Tyan                               
-your_link                                 : https://behance.net/anna_tyan                     
-your_city                                 : St. Louis                                
-email_address                             : covid.helpline@gmail.com
-facebook_username                         : Covid Helpline                                          
-instagram_username                        : covid_helpline
-twitter_username                          : covid_helpline
-github_username                           : annajt178
-youtube_username                          : Covid Helpline
+
+
