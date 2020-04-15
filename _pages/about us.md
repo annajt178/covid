@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About us
+title: About
 include_in_header: true
 ---
 
@@ -10,13 +10,17 @@ Covid Helpline is a non-profit, open source, community driven initiative created
 
 # Our team
 
-| ![mar](assets/team/mar.jpg) 
-<br> Marwan Helali<br> title      | Alex          | Vany  |
+| Mar     | Alex          | Vany  |
 | Glenn   | Vlad | Anna |
 |  Ajay  | Sumi      |   Cleo |
 | Kass | Davina      |    Cristiana|
 
+# Contribution
+
+We are currently seeking developers who are willing to give us a hand completing the work listed in the [issues section](https://github.com/Marwan01/covid-helpline/issues) following our [contribution guidelines](https://github.com/Marwan01/covid-helpline/blob/master/.github/CONTRIBUTING.md).
 
 
+# Support
 
+This project is in serious need of contributions and funding. If you are interested in saving the world, getting your questions answered, or reaching out to the developers, contact us at via [email](mailto:covid.helpline@gmail.com). We are currently asking for donations via this [GoFundMe](https://www.gofundme.com/f/help-spread-information-about-covid19-via-text) page and would really appreciate any donation amount. The goal is to keep Covid Helpline running for FREE for all of its users. Help us with our mission by helping us spread the word on social media: [Facebook](https://www.facebook.com/covidhelpline) & [Instagram](https://www.instagram.com/covid_helpline/).
 

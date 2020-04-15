@@ -7,6 +7,8 @@ include_in_header: true
 # How it works
 
 ## Step 1
+![Text Bubble](assets\textbubble.png)
+Format: ![bubble](assets\textbubble.png
 
 ## Step 2
 
