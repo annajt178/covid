@@ -13,9 +13,9 @@ Covid Helpline is a non-profit, open source, community driven initiative created
 
 | Mar     | Alex | Vany |
 | Glenn   | Vlad | Anna |
-|  Ajay   | Sumi | Cleo |
+| Ajay    | Sumi | Cleo |
 | Kass    |Davina| Cristiana|
-|Ajay     | Karla|
+| Ajay    | Karla|
 
 # Contribution
 
@@ -28,5 +28,6 @@ This project is in serious need of contributions and funding. If you are interes
 
 <br><br>
 
-
+<img alt="README-684b45a8.jpg" src="assets/icons/news.png" width="20%" height="" >
+![](assets/icons/news.png)
 
