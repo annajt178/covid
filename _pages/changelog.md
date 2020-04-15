@@ -7,7 +7,7 @@ include_in_header: true
 # Getting Started
 This project uses Python and Twilio. To get started make sure you have [Python 3.7+](https://www.python.org/downloads/) and [Twilio CLI](https://www.twilio.com/docs/twilio-cli/quickstart) installed. You can install Twilio CLI with Homebrew using this commad:
 
-`brew tap twilio/brew && brew install twilio`
+<dl>brew tap twilio/brew && brew install twilio</dl>
 
 You will need to login to Twilio CLI:
 
@@ -21,9 +21,9 @@ In order to run the project you need the following credentials:
 
 Use virtualenv to create an environment and install app dependencies:
 
-`virtualenv venv`
-`source venv/bin/activate`
-`pip3 install -r requirements.txt`
+<dl>virtualenv venv
+source venv/bin/activate
+pip3 install -r requirements.txt</dl>
 
 To start your own localhost flask server:
 
