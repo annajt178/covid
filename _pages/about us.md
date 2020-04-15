@@ -26,3 +26,15 @@ We are currently seeking developers who are willing to give us a hand completing
 
 This project is in serious need of contributions and funding. If you are interested in saving the world, getting your questions answered, or reaching out to the developers, contact us at via [email](mailto:covid.helpline@gmail.com). We are currently asking for donations via this [GoFundMe](https://www.gofundme.com/f/help-spread-information-about-covid19-via-text) page and would really appreciate any donation amount. The goal is to keep Covid Helpline running for FREE for all of its users. Help us with our mission by helping us spread the word on social media: [Facebook](https://www.facebook.com/covidhelpline) & [Instagram](https://www.instagram.com/covid_helpline/).
 
+<br><br>
+
+# Information About Yourself
+your_name                                 : Anna Tyan                               
+your_link                                 : https://behance.net/anna_tyan                     
+your_city                                 : St. Louis                                
+email_address                             : covid.helpline@gmail.com
+facebook_username                         : Covid Helpline                                          
+instagram_username                        : covid_helpline
+twitter_username                          : covid_helpline
+github_username                           : annajt178
+youtube_username                          : Covid Helpline
