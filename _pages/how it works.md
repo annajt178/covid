@@ -7,7 +7,7 @@ include_in_header: true
 # How it works
 
 ## Step 1
-![bubble](C:\Users\Anna\Documents\GitHub\covid\assets\textbubble.png)
+![bubble](https://miro.medium.com/max/1200/1*mk1-6aYaf_Bes1E3Imhc0A.jpeg)
 
 
 ## Step 2
