@@ -9,7 +9,8 @@ include_in_header: true
 ## Step 1
 ![bubble](https://miro.medium.com/max/1200/1*mk1-6aYaf_Bes1E3Imhc0A.jpeg)
 assets/textbubble.png
-![](assets/textbubble.png)
+![bubble2](https://github.com/annajt178/covid/blob/master/assets/textbubble.png)
+
 
 ## Step 2
 Choose from the options pannel
