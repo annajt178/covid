@@ -10,7 +10,7 @@ Covid Helpline is a non-profit, open source, community driven initiative created
 
 # Our team
 
-<img src="assets/team/mar.jpg" width="440"> <img src="https://emilbaehr.com/files/slor1.png" width="440">
+<img src="assets\team\mar.jpg" width="440"> <img src="https://emilbaehr.com/files/slor1.png" width="440">
 
 | Mar     | Alex          | Vany  |
 | Glenn   | Vlad | Anna |
