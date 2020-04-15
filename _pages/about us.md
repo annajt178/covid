@@ -10,7 +10,8 @@ Covid Helpline is a non-profit, open source, community driven initiative created
 
 # Our team
 
-| Mar       | Alex          | Vany  |
+| ![mar](assets/team/mar.jpg) 
+<br> Marwan Helali<br> title      | Alex          | Vany  |
 | Glenn   | Vlad | Anna |
 |  Ajay  | Sumi      |   Cleo |
 | Kass | Davina      |    Cristiana|
