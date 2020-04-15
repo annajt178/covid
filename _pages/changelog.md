@@ -40,8 +40,6 @@ Twilio partners with [Ngrok](https://ngrok.com/) which allows you to share your 
 
 Now you should be able to text your number and use the app.
 
-<br>
-
 ## Testing
 
 There is currently no testing for the code. Due to the importance of speed of delivery in this situation, we decided to focus on user/load testing and make sure we can scale the functionality to those who need it the most.
