@@ -43,4 +43,6 @@ To make sure your personal information is secure, we communicate our privacy and
 ## Privacy Questions
 If you have any questions or concerns about Covid Helpline’s Privacy Policy or data processing, you would like to contact our Data Protection Officer, or if you would like to make a complaint about a possible breach of local privacy laws, please [contact us](mailto:covid.helpline@gmail.com).
 
-### Covid-19 Helpline team 
+
+
+Covid-19 Helpline team 
