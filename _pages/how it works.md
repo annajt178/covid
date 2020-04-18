@@ -24,14 +24,13 @@ Stay safe
 
 ![handphone](https://lh3.googleusercontent.com/BbDCx__C0IPWGlGyFFDmXcpgaQtp4SxjtD8IJq-O6SYuax1ufEsyQfkVxdoIb3J0pzCdvYiNOlAgO3ttS7fv6qeYEed4uk_aMSycxVkaBhub5HH0olzmcCOFoWD-aO3qHZ4aPWxnki6omamImf1eM7X5RWKIcahckyP2TNUa66DX7RhJRBcXIPPsjfWf_l_WAbDg7MDZFl9ETJulWfhvvtsluvWHDSH3MltPdC1JCS4J_bDvn4PT2WbWlF2ZjKevt5SEG6JhzuM68WR1ktWw7d624oIoqiLPAQFdGnM1COsyAQritfI7lnDExu3iE96wgBhN63s-XqGev0TTISTiAbsLq12yKAVskp-G5Q1Tge-E1mzAvlLmTKl1vL_siqD3kZIOTSTWVfS6W3g0R9Ka0YTts8xHLPJVUFQTEmf-dVybZ-6LjADQ4afYZ5dIVoXLMLU-fBj9V_LJcnAp9C7ZkqLcNhnPIhnTrfNHUwSGXy-ppV2UfyJtFIYn14WKC2rq1sPrFzIZEs3qxBrS07aIJLPaIrDf_9p0XQ4aEFZDMm9sW-wZi2-hk3Ejov1kG6LIE8KJ2wwRyI7qpQAMU74DaLErzypeaM_KNA28SMW8J1KaETt2KuKWkg71Esd-mAUQjpMPsQGJtvKF6_Oxa4A7ZwqyauJgMYxE2K_rLUP2UVNt3JI0oDQdDD6jE8M=w1523-h1820-no)
 
+### Help us save lives by [contributing](https://www.gofundme.com/f/help-spread-information-about-covid19-via-text) to this project 
 
 <footer>
-<p>Help us save lives by <a contributing src="https://www.gofundme.com/f/help-spread-information-about-covid19-via-text"> to this project </p>
 	{% if site.your_name %}
 	<p class="footerText">Made by {% if site.your_link %}<a href="{{ site.your_link }}">{% endif %}{{ site.your_name }}{% if site.your_link %}</a>{% endif %}{% if site.your_city %} in {{ site.your_city }}{% endif %}</p>
 	{% endif %}
 	<div class="footerIcons">
-
 		{% if site.facebook_username %}
 			<a href="https://facebook.com/{{ site.facebook_username }}">
 				<span class="fa-stack fa-1x">
@@ -40,7 +39,6 @@ Stay safe
 				</span>
 			</a>
 		{% endif %}
-
 		{% if site.twitter_username %}
 			<a href="https://twitter.com/{{ site.twitter_username }}">
 				<span class="fa-stack fa-1x">
@@ -49,7 +47,6 @@ Stay safe
 				</span>
 			</a>
 		{% endif %}
-
 		{% if site.github_username %}
 			<a href="https://github.com/{{ site.github_username }}">
 				<span class="fa-stack fa-1x">
@@ -58,7 +55,6 @@ Stay safe
 				</span>
 			</a>
 		{% endif %}
-
 		{% if site.email_address %}
 			<a href="mailto:{{ site.email_address }}">
 				<span class="fa-stack fa-1x">
@@ -67,7 +63,6 @@ Stay safe
 				</span>
 			</a>
 		{% endif %}
-
 	</div>
 	<div class="footerLinks">
 		{% for page in site.pages %}
@@ -81,5 +76,5 @@ Stay safe
 
 
 
-Help us save lives by [contributing](https://www.gofundme.com/f/help-spread-information-about-covid19-via-text) to this project 
+
 
