@@ -26,6 +26,7 @@ Stay safe
 
 
 <footer>
+<p>Help us save lives by <a contributing src="https://www.gofundme.com/f/help-spread-information-about-covid19-via-text"> to this project </p>
 	{% if site.your_name %}
 	<p class="footerText">Made by {% if site.your_link %}<a href="{{ site.your_link }}">{% endif %}{{ site.your_name }}{% if site.your_link %}</a>{% endif %}{% if site.your_city %} in {{ site.your_city }}{% endif %}</p>
 	{% endif %}
