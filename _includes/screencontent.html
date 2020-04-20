@@ -39,8 +39,7 @@
             $(function() {
                 $(".videoContainer").removeClass("hidden");
                 $(".screenvideo").append('<source src="{{ site.github.baseurl }}{{ file.path }}" type="video/webm">');
-                var vid = document.getElementById('<source src="{{ site.github.baseurl }}{{ file.path }}" type="video/webm">');
-                vid.loop = true;
+                
                 console.log("{{ file.path }}");
             });
         </script>

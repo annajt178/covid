@@ -20,12 +20,21 @@ Making this information accessible via text, along with the latest Coronavirus n
 
 # Our team
 
+    Alexandru Andrei - Initial work - AlexAndrei98
+    Ajay Raj - Contributor - ajayraj
+    Andrea Hoppert-----
+    Anna Tyan - Design - annajt178
+    Chau Tran --------------------
+    Cristiana Faur ------------------------
+    Glenn Parham - Feature Development - glennparham
+    Marouen Helali - Initial work - Marwan01
+    Sumiya Choudhry - Scrum Coordinator - SumiyaChoudhry
+    Vanessa Trujillo - Initial work - trujivan
+    Vlad Khudik - Initial work - VoltK
+    Cleopatra Nestor - Public Relations
+    Karla Bravo - Lead Video Editor
+    Kassidy Tharp - Marketing Specialist
 
-| Mar     | Alex | Vany |
-| Glenn   | Vlad | Anna |
-| Ajay    | Sumi | Cleo |
-| Kass    |Davina| Cristiana|
-| Ajay    | Karla|
 
 # Contribution
 
@@ -38,6 +47,54 @@ This project is in serious need of contributions and funding. If you are interes
 
 <br><br>
 
-<img alt="README-684b45a8" src="assets/icons/news.png" width="20%" height="" >
-![](assets/icons/news.png)
+
+
+
+<footer>
+	{% if site.your_name %}
+	<p class="footerText">Made by {% if site.your_link %}<a href="{{ site.your_link }}">{% endif %}{{ site.your_name }}{% if site.your_link %}</a>{% endif %}{% if site.your_city %} in {{ site.your_city }}{% endif %}</p>
+	{% endif %}
+	<div class="footerIcons">
+		{% if site.facebook_username %}
+			<a href="https://facebook.com/{{ site.facebook_username }}">
+				<span class="fa-stack fa-1x">
+					<i class="socialIconBack fas fa-circle fa-stack-2x"></i>
+					<i class="socialIconTop fab fa-facebook fa-stack-1x"></i>
+				</span>
+			</a>
+		{% endif %}
+		{% if site.twitter_username %}
+			<a href="https://twitter.com/{{ site.twitter_username }}">
+				<span class="fa-stack fa-1x">
+					<i class="socialIconBack fas fa-circle fa-stack-2x"></i>
+					<i class="socialIconTop fab fa-twitter fa-stack-1x"></i>
+				</span>
+			</a>
+		{% endif %}
+		{% if site.github_username %}
+			<a href="https://github.com/{{ site.github_username }}">
+				<span class="fa-stack fa-1x">
+					<i class="socialIconBack fas fa-circle fa-stack-2x"></i>
+					<i class="socialIconTop fab fa-github fa-stack-1x"></i>
+				</span>
+			</a>
+		{% endif %}
+		{% if site.email_address %}
+			<a href="mailto:{{ site.email_address }}">
+				<span class="fa-stack fa-1x">
+					<i class="socialIconBack fas fa-circle fa-stack-2x"></i>
+					<i class="socialIconTop fas fa-envelope fa-stack-1x"></i>
+				</span>
+			</a>
+		{% endif %}
+	</div>
+	<div class="footerLinks">
+		{% for page in site.pages %}
+			<a href="{{ page.url | relative_url }}" target="_self">{{ page.title }}</a>
+		{% endfor %}
+		{% if site.presskit_download_link %}
+			<a href="{{ site.presskit_download_link }}">Press Kit</a>
+		{% endif %}
+	</div>
+</footer>
 
