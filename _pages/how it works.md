@@ -26,6 +26,10 @@ Stay safe
 
 ### Help us save lives by [contributing](https://www.gofundme.com/f/help-spread-information-about-covid19-via-text) to this project 
 
+
+<br><br>
+
+
 <footer>
 <!--
 	{% if site.your_name %}
