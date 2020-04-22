@@ -31,8 +31,8 @@ Stay safe
 	{% if site.your_name %}
 	<p class="footerText">Made by {% if site.your_link %}<a href="{{ site.your_link }}">{% endif %}{{ site.your_name }}{% if site.your_link %}</a>{% endif %}{% if site.your_city %} in {{ site.your_city }}{% endif %}</p>
 	{% endif %}
-	<div class="footerIcons">
 	-->
+	<div class="footerIcons">
 		{% if site.facebook_username %}
 			<a href="https://facebook.com/{{ site.facebook_username }}">
 				<span class="fa-stack fa-1x">
