@@ -20,12 +20,9 @@ Making this information accessible via text, along with the latest Coronavirus n
 
 # Our team
 
-    Alexandru Andrei - Initial work - AlexAndrei98
+    Alexandru Andrei - Initial work - [AlexAndrei98](github.com/alexandrei98)
     Ajay Raj - Contributor - ajayraj
-    Andrea Hoppert-----
     Anna Tyan - Design - annajt178
-    Chau Tran --------------------
-    Cristiana Faur ------------------------
     Glenn Parham - Feature Development - glennparham
     Marouen Helali - Initial work - Marwan01
     Sumiya Choudhry - Scrum Coordinator - SumiyaChoudhry
@@ -34,6 +31,13 @@ Making this information accessible via text, along with the latest Coronavirus n
     Cleopatra Nestor - Public Relations
     Karla Bravo - Lead Video Editor
     Kassidy Tharp - Marketing Specialist
+
+	add 
+
+    Cristiana Faur 
+	Andrea Hoppert
+	Vince
+	Davina
 
 
 # Contribution
@@ -55,8 +59,8 @@ This project is in serious need of contributions and funding. If you are interes
 	{% if site.your_name %}
 	<p class="footerText">Made by {% if site.your_link %}<a href="{{ site.your_link }}">{% endif %}{{ site.your_name }}{% if site.your_link %}</a>{% endif %}{% if site.your_city %} in {{ site.your_city }}{% endif %}</p>
 	{% endif %}
+		-->
 	<div class="footerIcons">
-	-->
 		{% if site.facebook_username %}
 			<a href="https://facebook.com/{{ site.facebook_username }}">
 				<span class="fa-stack fa-1x">
