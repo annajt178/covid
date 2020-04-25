@@ -8,16 +8,14 @@
 					</clipPath>
 				</defs>
 			</svg>
-			
-				{% if page.url != '/' %}
-				<a href="../" target="_self"><img class="headerIcon" src="assets/icon2.svg"></a>
+			{% if page.url != '/' %}
+				<a href="../" target="_self"><img class="headerIcon" src="{{ site.app_icon }}"></a>
 			{% else %}
-				<img class="headerIcon" src="">
+				<img class="headerIcon" src="{{ site.app_icon }}">
 			{% endif %}
-			
 			<div class="divider"></div>
 		</div>
-		<p class="headerName">Covid - 19 Helpline</p>
+		<p class="headerName">{{ site.app_name }}</p>
 	</div>
 	<nav class="scroll">
 		<ul>
