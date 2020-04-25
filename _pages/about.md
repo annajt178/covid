@@ -6,15 +6,15 @@ include_in_header: true
 
 # About
 
-Covid Helpline is a non-profit, open source, community driven initiative created to raise awareness and boost communication about the current Coronavirus outbreak. We make the latest updated data obtained from [John Hopkins University’ Covid-19 data repository](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports) available via SMS, along with important tips and news about Covid-19.
+Covid Helpline is a non-profit, open source, community driven initiative created to raise awareness and facilitate accurate information and communication regarding current Coronavirus outbreak. We make the latest updated data obtained from [John Hopkins University’ Covid-19 data repository](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports) available via SMS, along with important tips and news about Covid-19.
 
 # Why is this important?
 
-The biggest issue about pandemics is communication. As of today, 10% of the U.S population does not use the internet. 42% of older adults are part of that group. The vast majority of Americans – 96% – now own a cellphone of some kind. Of that 96% of Americans only 81% owned a smartphone. We also have 91% of Americans age 65+, who own some type cellphone, of that share 39% of the group do not own a smartphone. Still, these numbers are more extremes in developing countries.
+Some of the biggest challenges we are facing during this pandemic are a lack of communication and misinformation of the general public, especially the elderly which are most vulnerable. Currently, around 10% of the U.S population does not use the internet. Around 42% of older adults are part of that group. The good news is that the vast majority of Americans – 96% – now own a cellphone of some kind. However, of that 96% of Americans with access to a cell phone only 81% have owned a smartphone. Moreover when looking at the aging population, around 91% of Americans age 65+, own some type cellphone, however, 39% of that group do not own a smartphone. 
 
-These stats are extremely important; People at higher risk of contracting COVID-19 are older adults and people who have severe chronic medical conditions like heart, lung or kidney disease. According to early CDC data, it is suggested that older people are twice as likely to have serious COVID-19 illness.
+These statistics are extremely important due to the fact that the people with the highest risk of contracting COVID-19 are older adults and individuals who have severe chronic medical conditions such as heart, lung or kidney disease. According to early CDC data, it is suggested that the older population is twice as susceptible to contract a serious case of the COVID-19 virus.
 
-Making this information accessible via text, along with the latest Coronavirus news, and the CDC advice about how to stay safe would greatly aid mankind in it’s quest to control this fatal virus. Covid Helpline is a reasonably easy and cheap solution to this issue.
+Making this vital information accessible via text, along with the latest Coronavirus news, and the CDC’s advice about how to stay safe in this time would greatly aid in the quest to control this fatal virus. Covid Helpline offers a reasonably easy and cost effective solution to this issue.
 
 [Learn more about our mission in this Youtube video from our team](https://www.youtube.com/watch?v=axAEKzDHBm4&feature=youtu.be)
 
@@ -42,7 +42,7 @@ Making this information accessible via text, along with the latest Coronavirus n
 
 # Contribution
 
-We are currently seeking developers who are willing to give us a hand completing the work listed in the [issues section](https://github.com/Marwan01/covid-helpline/issues) following our [contribution guidelines](https://github.com/Marwan01/covid-helpline/blob/master/.github/CONTRIBUTING.md).
+We are currently seeking to work with other likeminded developers who are willing to give us a hand in completing the work listed in the [issues section](https://github.com/Marwan01/covid-helpline/issues) following our [contribution guidelines](https://github.com/Marwan01/covid-helpline/blob/master/.github/CONTRIBUTING.md).
 
 
 # Support

@@ -31,12 +31,12 @@ Your privacy is important to Covid Helpline so we’ve developed a Privacy Polic
 ##  How we store and secure the Personal Information we collect
 Covid Helpline takes the security of your personal information very seriously. When your personal data is stored by Covid Helpline, we use computer systems with limited access housed in facilities using physical security measures. 
 
-When you use other products, services, or applications or post on forums, chat rooms, or social networking service, the personal information and content you share that is visible to other users and can be read, collected, or used by them. You are responsible for the personal information you choose to share or submit in these instances. For example, if you list your name and phone in a forum posting, that information is public. Please take care when using these features.
+When you use other products, services, and applications or post on forums, chat rooms, or social networking services, the personal information and content you share that is visible to other users and can be read, collected and used by them. You are responsible for the personal information you choose to share or submit in these instances. For example, if you list your name and phone number in a forum posting, that information is public. Please take caution when using these features.
 
 <br>
 
 ## Our Companywide Commitment to Your Privacy 
-To make sure your personal information is secure, we communicate our privacy and security guidelines to Covid Helpline team and strictly enforce privacy safeguards within the company.
+To make sure your personal information is secure, we communicate our privacy and security guidelines witht the entire team at Covid Helpline team and strictly enforce privacy safeguards within the company.
 
 <br>
 
@@ -45,6 +45,6 @@ If you have any questions or concerns about Covid Helpline’s Privacy Policy or
 
 
 
-Covid-19 Helpline team 
+Covid Helpline team 
 
 
