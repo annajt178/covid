@@ -14,7 +14,7 @@ We are currently asking for donations via this [GoFundMe](https://www.gofundme.c
 
 Stay on top of the latest updates and help us with our mission by spreading the word on social media.
 
-Follow us on [Facebook](https://www.facebook.com/covidhelpline), [Instagram](https://www.instagram.com/covid_helpline/),and [Youtube](https://www.youtube.com/channel/UC1XCOJ4hYywwJnBfrkbtvfA)
+Follow us on [Facebook](https://www.facebook.com/covidhelpline), [Instagram](https://www.instagram.com/covid_helpline/) and [Youtube](https://www.youtube.com/channel/UC1XCOJ4hYywwJnBfrkbtvfA)
 
 <br><br>
 
