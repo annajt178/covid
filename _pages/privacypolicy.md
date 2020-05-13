@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-April 14, 2020
+May 13, 2020
 
 # Privacy Policy
 Your privacy is important to Covid Helpline so we’ve developed a Privacy Policy that covers how we collect, use, disclose, transfer, and store your personal information.
