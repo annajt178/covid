@@ -9,7 +9,7 @@ include_in_header: true
 Helping spread communication about novel virus COVID - 19 via FREE text messages for everyone 
 ## Step 1
 
-![text](../assets/icons/hands/png)
+![text](../assets/icons/hands.png)
 
 <!-- ![textbubble](https://lh3.googleusercontent.com/NjviiaTNVf5ope5MhtYssd3Enr3FEj23btKtIfceNzdnqe0jusxREd-sqBg-0-5EpQswj_8FLS7hQroMwtDM_vIHzfeQL7YpKjb3fYRb9JoZYLaHbYTOrcaDujG1IkMEve5T11f4os6rMnTwhd7s-exdyQekBe6zbZwn1SR056QH0hS8IYwPScSSasp5wIO-Dsl_tF6XsNs8P7LwiyFqHR93hT13nYVmswyMjI4hK6V0Lc8lHXk55PVYUksDmTZOiFkrKo7FbqZQg5ubOX_bwDp9SLeb14nrcXTT6_8bVNOm5NOmYU7u8DT3cCgXxnyB21xBqrmVjrYyP0FCRG4nWVY-BWFeeoCwaT48Y3YLhSMz_J4Ol4N4B2ZIaySaxlmYLWM_BLaO5vZeqcPqCj-Dnde3D2YIWH_xWfXbNqlbULNcLbPUup6wMt6NDpQURiPSqyl9qaFcZcehTMV0-6668nrolHwaCmkr68BmBi8moC3SyPcAUlT3q16pwkbVu3i-neUpA7KGdHrB22CnKP506mIPvr44bERlyjcTMr_crphV-x3i7iqBR46J7oGJRurQtoEo86FhX6dFW63xBVsjmE9scJI6sWqK_lJswaej3aT6P4flHw54CO82aSDa5jONzlpuHXBkOPP_eUS5Yr4-mT5LbHfdFXLZmOXqN4dpWC0e6vYaeaklNLYG160=w1552-h828-no) -->
 
