@@ -8,22 +8,19 @@ include_in_header: true
 # How it works
 Helping spread communication about novel virus COVID - 19 via FREE text messages for everyone 
 ## Step 1
+![text](../assets/textbubble.png)
 
-![text](../assets/icons/hands.png)
-<!-- please add correct screenshot -->
 
 
 ## Step 2
 Choose from the options pannel
+![text](../assets/optionpanel.png)
 
-
-<!-- please add correct screenshot -->
 
 ## Step 3
 Stay safe
+![text](../assets/hands.png)
 
-
-<!-- please add correct screenshot -->
 
 ### Help us save lives by [contributing](https://www.gofundme.com/f/help-spread-information-about-covid19-via-text) to this project 
 

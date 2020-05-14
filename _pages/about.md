@@ -21,23 +21,21 @@ Making this vital information accessible via text, along with the latest Coronav
 # Our team
 
     Alexandru Andrei - Initial work - [AlexAndrei98](github.com/alexandrei98)
+	Marouen Helali - Initial work - Marwan01
+	Vanessa Trujillo - Initial work - trujivan
     Ajay Raj - Contributor - ajayraj
     Anna Tyan - Design - annajt178
     Glenn Parham - Feature Development - glennparham
-    Marouen Helali - Initial work - Marwan01
     Sumiya Choudhry - Scrum Coordinator - SumiyaChoudhry
-    Vanessa Trujillo - Initial work - trujivan
     Vlad Khudik - Initial work - VoltK
+	
     Cleopatra Nestor - Public Relations
     Karla Bravo - Lead Video Editor
-    Kassidy Tharp - Marketing Specialist
-
-	add 
-
-    Cristiana Faur 
-	Andrea Hoppert
-	Vince
-	Davina
+    Kassidy Tharp - Marketing 
+    Cristiana Faur - Marketing
+	Andrea Hoppert - Marketing 
+	Vince McDonnell - Marketing/Video Content
+	Davina Agasaro - Marketing 
 
 
 # Contribution
